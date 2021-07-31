@@ -1,0 +1,24 @@
+# Dependencies
+node_modules
+
+# package-lock.json (use yarn.lock instead)
+package-lock.json
+
+# yarn error logs
+yarn-error.log
+
+# Environment varibales
+.env*
+.env.local
+.env.dev
+.env.prod
+!.env*.example
+
+# Code coverage
+coverage
+
+# Webstorm IDE
+.idea
+
+# VSCode IDE
+.vscode
